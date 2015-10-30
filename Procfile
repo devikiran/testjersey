@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* com.test.jersey.Main
+web: java -cp target/classes:target/dependency/* com.test.jersey.Helloworld
